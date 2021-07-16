@@ -122,5 +122,5 @@ e-mail: ushakovdv@bsu.by"""),
 
 Более подробная информация на сайте:
 https://rfe.bsu.by/novosti-abiturientam/~showNews/School%202021"""),
-        'lang': ('ru', 'en')}),
+        'lang': ('ru',)}),
 ])
