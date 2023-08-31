@@ -24,41 +24,41 @@ msgstr ""
 #: utils\messages.py:10
 msgid ""
 "Добавьте свой фильтр квартир и получите актуальные предложения прямо сейчас!"
-msgstr ""
+msgstr "Dodaj swój filtr mieszkań i otrzymuj aktualne oferty już teraz!"
 
 #: utils\messages.py:14
 msgid "Добавить фильтр ▶"
-msgstr ""
+msgstr "Dodać filtr ▶"
 
 #: utils\messages.py:17
 msgid "В каком городе вы ищите жилье? 🏡"
-msgstr ""
+msgstr "W jakim mieście szukasz zakwaterowania?🏡"
 
 #: utils\messages.py:19
 msgid "Выбрать все ✅"
-msgstr ""
+msgstr "Wybierz wszystko ✅"
 
 #: utils\messages.py:21
 msgid "Отменить выбор всех ❌"
-msgstr ""
+msgstr "Odznacz wszystkie ❌"
 
 #: utils\messages.py:23
 msgid "Далее ⏩"
-msgstr ""
+msgstr "Dalej ⏩"
 
 #: utils\messages.py:25
 msgid "Выберите один или несколько районов 🏙"
-msgstr ""
+msgstr "Wybierz jedną lub więcej dzielnic 🏙"
 
 #: utils\messages.py:27
 msgid "Выберите количество комнат 🔢"
-msgstr ""
+msgstr "Wybierz liczbę pokoi 🔢"
 
 #: utils\messages.py:29
 msgid ""
 "Введите желаемую стоимость жилья <b>в злотых</b>\n"
 " (через дефис <b>в формате 2000-3000</b>) 💸"
-msgstr ""
+msgstr "Wprowadź żądany koszt zakwaterowania <b>w PLN</b> (z łącznikiem <b>w formacie 2000-3000</b>) 💸"
 
 #: utils\messages.py:32
 msgid "Сообщение об ошибке цены"
